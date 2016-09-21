@@ -2,7 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "/D/git/LugTeX/website",
+			"path": "/D/git/website",
 			"file_exclude_patterns": ["*.log","*.aux", "*.blg", "*.lof", "*.lot", "*.toc","*.sublime-workspace","*.out","*.gz"]
 		}
 	]
