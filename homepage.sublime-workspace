@@ -39,7 +39,7 @@
 			"file": "research.html",
 			"settings":
 			{
-				"buffer_size": 14029,
+				"buffer_size": 14891,
 				"line_ending": "Unix"
 			}
 		},
@@ -47,7 +47,7 @@
 			"file": "talks.html",
 			"settings":
 			{
-				"buffer_size": 10052,
+				"buffer_size": 10106,
 				"line_ending": "Windows"
 			}
 		},
@@ -55,7 +55,7 @@
 			"file": "publication.html",
 			"settings":
 			{
-				"buffer_size": 27839,
+				"buffer_size": 28119,
 				"line_ending": "Unix"
 			}
 		},
@@ -63,7 +63,7 @@
 			"file": "contact.html",
 			"settings":
 			{
-				"buffer_size": 14243,
+				"buffer_size": 14213,
 				"line_ending": "Unix"
 			}
 		},
@@ -79,7 +79,7 @@
 			"file": "code.html",
 			"settings":
 			{
-				"buffer_size": 25829,
+				"buffer_size": 25838,
 				"line_ending": "Unix"
 			}
 		},
@@ -95,15 +95,7 @@
 			"file": "index.htm",
 			"settings":
 			{
-				"buffer_size": 28133,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/git/LugTeX/website/code.html",
-			"settings":
-			{
-				"buffer_size": 25829,
+				"buffer_size": 28193,
 				"line_ending": "Unix"
 			}
 		}
@@ -144,6 +136,7 @@
 	},
 	"file_history":
 	[
+		"/D/git/LugTeX/website/code.html",
 		"/D/git/LugTeX/swapRateModel/RinFinance/160520_RinF.tex",
 		"/D/Dropbox (LQF)/CV/CV/academicRes.tex",
 		"/D/git/divergenceModelR/src/Makevars.win",
@@ -153,7 +146,6 @@
 		"/D/git/LugTeX/swapRateModel/optData/threeFactor_1/cmaes.err",
 		"/D/git/LugTeX/swapRateModel/optData/oneFactor_1/cmaes.err",
 		"/D/git/LugTeX/website/index.html",
-		"/D/git/LugTeX/website/code.html",
 		"/D/git/LugTeX/website/css/bootstrap.css",
 		"/D/Dropbox (LQF)/LuganoQF/Cumulant/writedown/abstract.tex",
 		"/D/git/LugTeX/website/css/styles/purple.css",
@@ -289,6 +281,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"cv",
 			"arbitrage f",
 			"prof.",
 			"University of Lugano",
@@ -461,6 +454,7 @@
 	"groups":
 	[
 		{
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -468,15 +462,15 @@
 					"file": "research.html",
 					"settings":
 					{
-						"buffer_size": 14029,
+						"buffer_size": 14891,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2932,
-								2932
+								12207,
+								12207
 							]
 						],
 						"settings":
@@ -486,7 +480,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 42.0,
+						"translation.y": 98.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -496,15 +490,15 @@
 					"file": "talks.html",
 					"settings":
 					{
-						"buffer_size": 10052,
+						"buffer_size": 10106,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5986,
-								5986
+								0,
+								0
 							]
 						],
 						"settings":
@@ -524,15 +518,15 @@
 					"file": "publication.html",
 					"settings":
 					{
-						"buffer_size": 27839,
+						"buffer_size": 28119,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5960,
-								5960
+								0,
+								0
 							]
 						],
 						"settings":
@@ -542,7 +536,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1234.0,
+						"translation.y": 226.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -552,15 +546,15 @@
 					"file": "contact.html",
 					"settings":
 					{
-						"buffer_size": 14243,
+						"buffer_size": 14213,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5957,
-								5957
+								0,
+								0
 							]
 						],
 						"settings":
@@ -570,7 +564,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1215.0,
+						"translation.y": 207.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -607,15 +601,15 @@
 					"file": "code.html",
 					"settings":
 					{
-						"buffer_size": 25829,
+						"buffer_size": 25838,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5639,
-								5639
+								0,
+								0
 							]
 						],
 						"settings":
@@ -625,7 +619,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 627.0,
+						"translation.y": 151.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -661,15 +655,15 @@
 					"file": "index.htm",
 					"settings":
 					{
-						"buffer_size": 28133,
+						"buffer_size": 28193,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8413,
-								8413
+								5924,
+								5924
 							]
 						],
 						"settings":
@@ -679,35 +673,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2499.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/D/git/LugTeX/website/code.html",
-					"settings":
-					{
-						"buffer_size": 25829,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1381.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
