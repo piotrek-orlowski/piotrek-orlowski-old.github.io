@@ -39,7 +39,7 @@
 			"file": "research.html",
 			"settings":
 			{
-				"buffer_size": 14891,
+				"buffer_size": 14892,
 				"line_ending": "Unix"
 			}
 		},
@@ -47,7 +47,7 @@
 			"file": "talks.html",
 			"settings":
 			{
-				"buffer_size": 10106,
+				"buffer_size": 10134,
 				"line_ending": "Windows"
 			}
 		},
@@ -55,7 +55,7 @@
 			"file": "publication.html",
 			"settings":
 			{
-				"buffer_size": 28119,
+				"buffer_size": 27963,
 				"line_ending": "Unix"
 			}
 		},
@@ -63,7 +63,7 @@
 			"file": "contact.html",
 			"settings":
 			{
-				"buffer_size": 14213,
+				"buffer_size": 14212,
 				"line_ending": "Unix"
 			}
 		},
@@ -79,7 +79,7 @@
 			"file": "code.html",
 			"settings":
 			{
-				"buffer_size": 25838,
+				"buffer_size": 25958,
 				"line_ending": "Unix"
 			}
 		},
@@ -95,7 +95,7 @@
 			"file": "index.htm",
 			"settings":
 			{
-				"buffer_size": 28193,
+				"buffer_size": 29248,
 				"line_ending": "Unix"
 			}
 		}
@@ -136,6 +136,18 @@
 	},
 	"file_history":
 	[
+		"/D/Dropbox (LQF)/job-market-docs/cover-letter-body.tex",
+		"/D/Dropbox (LQF)/job-market-docs/cv-cover-sty/moderncvstyleclassic.sty",
+		"/D/Dropbox (LQF)/job-market-docs/cv-cover-sty/cover-body.tex",
+		"/D/Dropbox (LQF)/job-market-docs/academicRes.tex",
+		"/D/Dropbox (LQF)/job-market-docs/orlowski-resume-appl.tex",
+		"/D/Dropbox (LQF)/job-market-docs/cv-cover-sty/main.tex",
+		"/D/Dropbox (LQF)/job-market-docs/cv-cover-sty/paris-dauphine.tex",
+		"/D/Downloads/CV_Parise.tex",
+		"/D/Dropbox (LQF)/job-market-docs/main.tex",
+		"/D/Dropbox (LQF)/job-market-docs/cv-cover-sty/moderncv.cls",
+		"/E/git/LugTeX/cfPortfoliosAndDivergences.tex",
+		"/E/git/LugTeX/06.tex",
 		"/D/git/LugTeX/website/code.html",
 		"/D/git/LugTeX/swapRateModel/RinFinance/160520_RinF.tex",
 		"/D/Dropbox (LQF)/CV/CV/academicRes.tex",
@@ -251,19 +263,7 @@
 		"/D/git/LugTeX/rDivCLT/figs/monthlyPremiaTab.tex",
 		"/D/Users/fabio/Dropbox (LQF)/LuganoQF/Cumulant/writedown/Appendix.tex",
 		"/D/Users/fabio/Dropbox (LQF)/LuganoQF/Cumulant/writedown/4.tex",
-		"/D/git/LugTeX/rDivCLT/figs/factCorTable.tex",
-		"/C/Program Files/RStudio/bin/sumatra/sumatrapdfrestrict.ini",
-		"/D/Dropbox (LQF)/LuganoQF/Cumulant/writedown/Styles/paper.cls",
-		"/D/git/hfAffine/divergence/data/crsp_Fama_RFrates.txt",
-		"/D/git/hfAffine/RpackageDev/mdrData/data/6_Portfolios_ME_Prior_12_2_Daily.txt",
-		"/D/git/hfAffine/RpackageDev/mdrData/data/6_Portfolios_2x3_daily.txt",
-		"/C/Users/piotr/AppData/Roaming/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
-		"/C/Program Files/RStudio/bin/sumatra/SumatraPDF-settings.txt",
-		"/D/git/LugTeX/rDivCLT/figs/realizedSummaryStats.tex",
-		"/D/git/LugTeX/rDivCLT/RealizedJumpPremia.synctex.gz",
-		"/D/git/LugTeX/rDivCLT/Styles/paper.cls",
-		"/D/Downloads/science (4).bib",
-		"/D/git/hfAffine/divergence/data/cpiAndBonds.txt"
+		"/D/git/LugTeX/rDivCLT/figs/factCorTable.tex"
 	],
 	"find":
 	{
@@ -281,6 +281,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"just",
+			"collection",
+			"gith",
+			"slides/orlowski_r",
+			"resume",
+			"profesio",
+			"K:/",
 			"cv",
 			"arbitrage f",
 			"prof.",
@@ -408,6 +415,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"other/orlowski_r",
 			"Professor",
 			"Universit&aacute della Svizzera italiana, Lugano",
 			"index.htm",
@@ -462,15 +470,15 @@
 					"file": "research.html",
 					"settings":
 					{
-						"buffer_size": 14891,
+						"buffer_size": 14892,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12207,
-								12207
+								5872,
+								5872
 							]
 						],
 						"settings":
@@ -480,7 +488,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 98.0,
+						"translation.y": 1325.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -490,15 +498,15 @@
 					"file": "talks.html",
 					"settings":
 					{
-						"buffer_size": 10106,
+						"buffer_size": 10134,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								8293,
+								8293
 							]
 						],
 						"settings":
@@ -508,7 +516,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1479.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -518,15 +526,15 @@
 					"file": "publication.html",
 					"settings":
 					{
-						"buffer_size": 28119,
+						"buffer_size": 27963,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								21847,
+								21847
 							]
 						],
 						"settings":
@@ -536,7 +544,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 226.0,
+						"translation.y": 4727.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -546,7 +554,7 @@
 					"file": "contact.html",
 					"settings":
 					{
-						"buffer_size": 14213,
+						"buffer_size": 14212,
 						"regions":
 						{
 						},
@@ -601,15 +609,15 @@
 					"file": "code.html",
 					"settings":
 					{
-						"buffer_size": 25838,
+						"buffer_size": 25958,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								10936,
+								10936
 							]
 						],
 						"settings":
@@ -619,7 +627,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 151.0,
+						"translation.y": 2487.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -655,15 +663,15 @@
 					"file": "index.htm",
 					"settings":
 					{
-						"buffer_size": 28193,
+						"buffer_size": 29248,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5924,
-								5924
+								2750,
+								2750
 							]
 						],
 						"settings":
@@ -673,7 +681,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1381.0,
+						"translation.y": 489.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -715,6 +723,10 @@
 	"output.exec":
 	{
 		"height": 142.0
+	},
+	"output.latextools":
+	{
+		"height": 94.0
 	},
 	"replace":
 	{
