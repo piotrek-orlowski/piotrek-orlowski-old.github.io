@@ -1334,13 +1334,24 @@ ul.grid li a,ul.grid li img {
 	background-image: url(../img/contact2.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center 70%;
+	background-position: center 65%;
 	padding: 190px 0 35px 0;
 }
 
 #contact .pageheader .title{
 	  color: #fff;
 	  border: none;
+}
+
+#contact .pageheader .title-right{
+	font-size: 38px;
+	font-weight: 500;
+	color: #fff;
+	margin: 20px 0 10px 0;
+	border: none;
+	position: absolute;
+	top: 130px;
+	right: 350px;
 }
 
 .contact-office {
